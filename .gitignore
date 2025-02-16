@@ -1,3 +1,9 @@
 # Ignore all zip files in Assignments folder
 
 *.zip
+
+# Ignore large files
+Topics - Pentest/*.pptx
+Topics - Pentest/*.mp4
+Topics - Pentest/*.vmdk
+Topics - Pentest/metasploitable2/Snapshots/*
